@@ -15,18 +15,3 @@ This project extracts pet labels from image filenames, compares them to classifi
 - `run_models_batch.sh` → Runs the program with different CNN models.  
 
 ---
-
-## **How to Use**
-
-1. Make sure your pet images are in a folder called `pet_images/`.  
-2. Run the main script:
-
-```bash
-python3 main.py
-
-bash run_models_batch.sh
-
----
-
-If you paste this into GitHub as `README.md`, your repo will instantly look professional and explain everything clearly.  
-
